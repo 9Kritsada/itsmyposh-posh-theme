@@ -2,6 +2,9 @@
 
 ![my-posh](https://user-images.githubusercontent.com/69795132/197131348-4ce58a77-682c-49e7-88d6-acebec434626.png)
 
+I use font JetBrains
+https://www.jetbrains.com/lp/mono/
+
 # How To Use
 
 <a href="https://ohmyposh.dev/docs/installation/windows" target="_blank">Install - Oh My Posh</a>
