@@ -2,7 +2,7 @@
 
 ![my-posh](https://user-images.githubusercontent.com/69795132/197131348-4ce58a77-682c-49e7-88d6-acebec434626.png)
 
-I use font JetBrains
+I use font JetBrains Mono
 https://www.jetbrains.com/lp/mono/
 
 # How To Use
