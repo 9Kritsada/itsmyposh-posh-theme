@@ -1,4 +1,4 @@
-# itmyposh-posh-theme
+# itsmyposh-posh-theme
 
 ![my-posh](https://user-images.githubusercontent.com/69795132/197131348-4ce58a77-682c-49e7-88d6-acebec434626.png)
 
@@ -29,5 +29,5 @@ notepad $PROFILE
 
 - a path to a local configuration file
 ```pws
-oh-my-posh init pwsh --config ~/AppData\Local\Programs\oh-my-posh\themes\itmyposh.omp.json | Invoke-Expression
+oh-my-posh init pwsh --config ~/AppData\Local\Programs\oh-my-posh\themes\itsmyposh.omp.json | Invoke-Expression
 ```
