@@ -34,7 +34,7 @@
 				{
 					"foreground": "#c5c5c5",
 					"style": "plain",
-					"template": "<#30a4dc>\uf0ac </>",
+					"template": "<#30a4dc>\ufa9e</>",
 					"type": "git"
 				},
 				{
