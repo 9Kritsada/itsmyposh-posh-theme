@@ -1,9 +1,8 @@
 # itsmyposh-posh-theme
 
-![my-posh](https://user-images.githubusercontent.com/69795132/197131348-4ce58a77-682c-49e7-88d6-acebec434626.png)
+![mytheme](https://user-images.githubusercontent.com/69795132/197923011-cedcdfaf-d07b-4d86-9a65-49dd07cb6a96.png)
 
-I use font JetBrains Mono
-https://www.jetbrains.com/lp/mono/
+I use font JetBrains Mono https://www.nerdfonts.com/font-downloads
 
 # How To Use
 
@@ -31,3 +30,6 @@ notepad $PROFILE
 ```pws
 oh-my-posh init pwsh --config ~/AppData\Local\Programs\oh-my-posh\themes\itsmyposh.omp.json | Invoke-Expression
 ```
+
+
+
