@@ -1,6 +1,6 @@
 # itsmyposh-posh-theme
 
-![mytheme](https://user-images.githubusercontent.com/69795132/197924820-32527b6a-8551-4349-bcd0-a34e1f0cfedb.png)
+![mytheme1](https://user-images.githubusercontent.com/69795132/210953636-35a17975-e33f-4f18-8dc9-069301791bf4.png)
 
 I use font JetBrains Mono https://www.nerdfonts.com/font-downloads
 
