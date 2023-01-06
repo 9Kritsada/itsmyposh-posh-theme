@@ -19,13 +19,13 @@
 				{
 					"foreground": "#ab5dee",
 					"style": "plain",
-					"template": "{{ .UserName }} ",
+					"template": "{{ .HostName }} ",
 					"type": "session"
 				},
 				{
 					"foreground": "#1ddd33",
 					"properties": {
-						"style": "folder"
+						"style": "full"
 					},
 					"style": "plain",
 					"template": "<#cccccc>\uf838</> {{ .Path }} ",
