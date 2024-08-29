@@ -8,9 +8,9 @@
 				{
 					"foreground": "#ffffff",
 					"properties": {
-					  "macos": "\uf179 ",
-					  "ubuntu": "\uf31b ",
-					  "windows": "\uf871 "
+					  "macos": "\uf179  ",
+					  "ubuntu": "\uf31b  ",
+					  "windows": "\uf871  "
 					},
 					"style": "diamond",
 					"template": "{{ if .WSL }}WSL at {{ end }}{{.Icon}}",
@@ -28,7 +28,7 @@
 						"style": "full"
 					},
 					"style": "plain",
-					"template": "<#cccccc>\uf838</> {{ .Path }} ",
+					"template": "<#cccccc>\uf838</>  {{ .Path }} ",
 					"type": "path"
 				},
 				{
